@@ -1,0 +1,1 @@
+QA se involucra en etapas de testing manual, automatizado y validación en CI.
